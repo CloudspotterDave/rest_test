@@ -1,5 +1,5 @@
 """
-Django settings for rest_test project.
+Django settings for rest_test project..
 
 For more information on this file, see
 https://docs.djangoproject.com/en/1.7/topics/settings/
